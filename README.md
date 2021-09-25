@@ -1,4 +1,6 @@
 ### Hello everyone 👋
+![Advello's GitHub stats](https://github-readme-stats.vercel.app/api?username=Advello&show_icons=true&theme=radical)
+
 
 - 🔭 I’m currently working on C#
 - 🌱 I’m currently learning C# and Java
