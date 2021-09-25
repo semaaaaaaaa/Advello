@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Advello/Advello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hello everyone 👋
 
 - 🔭 I’m currently working on ... C#
 - 🌱 I’m currently learning ... C# and Java
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... advellerd#1704
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I can't read Python codes
--->
